@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="CampusCloud Table" language="en" table="x_125179_campusclo_campuscloud_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>CampusCloud Table</label>
+            <language>en</language>
+            <name>x_125179_campusclo_campuscloud_table</name>
+            <plural>CampusCloud Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 13:31:29</sys_created_on>
+            <sys_id>5d3806b737a113008624ae7873990e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CampusCloud Table</sys_name>
+            <sys_package display_value="CampusCloud" source="x_125179_campusclo">fc388a3737a113008624ae7873990ec2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CampusCloud">fc388a3737a113008624ae7873990ec2</sys_scope>
+            <sys_update_name>sys_documentation_x_125179_campusclo_campuscloud_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 13:31:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
